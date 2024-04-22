@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Live Site : https://merry-gnome-006e20.netlify.app/
+## Live Site : 
 
 ## Available Scripts
 

@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Live Site : 
+## Live Site : https://rainbow-alfajores-fd2159.netlify.app/
 
 ## Available Scripts
 
